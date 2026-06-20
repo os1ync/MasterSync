@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Master SYNC
+# 🤖 MasterSync
 
 ### Bot multifuncional para comunidades Discord
 
@@ -21,7 +21,7 @@
 
 ## 📌 Sobre o projeto
 
-O **Master SYNC** é um bot multifuncional para Discord, desenvolvido em **Python** com `discord.py 2.x`.
+O **MasterSync** é um bot multifuncional para Discord, desenvolvido em **Python** com `discord.py 2.x`.
 
 A ideia do projeto é reunir em um único bot vários recursos comuns de administração, interação e segurança para comunidades Discord, como moderação, tickets, logs, economia, níveis, sorteios, boas-vindas, automoderação e painéis interativos.
 
@@ -37,7 +37,7 @@ O projeto utiliza uma estrutura modular com **cogs**, banco de dados **SQLite** 
 
 ## 🎯 Objetivo
 
-O objetivo do **Master SYNC** é criar uma solução prática para servidores Discord, reduzindo a necessidade de usar vários bots diferentes dentro da mesma comunidade.
+O objetivo do **MasterSync** é criar uma solução prática para servidores Discord, reduzindo a necessidade de usar vários bots diferentes dentro da mesma comunidade.
 
 Além disso, o projeto também faz parte da minha evolução como desenvolvedor, praticando conceitos importantes como:
 
@@ -236,7 +236,7 @@ Na primeira execução, o projeto cria os diretórios de uso local e prepara o b
 
 ## 🧠 Aprendizados
 
-Este projeto faz parte do meu desenvolvimento como programador. Durante a construção do **Master SYNC**, estou praticando:
+Este projeto faz parte do meu desenvolvimento como programador. Durante a construção do **MasterSync**, estou praticando:
 
 * Organização de projetos Python em módulos
 * Criação de comandos slash, embeds, botões e menus
@@ -294,6 +294,6 @@ Desenvolvido por **Sync Dev** como projeto de estudo e evolução em Python.
 
 <div align="center">
 
-### “Evoluindo todos os dias para transformar ideias em sistemas reais.”
+### Evoluindo todos os dias para transformar ideias em sistemas reais.
 
 </div>
