@@ -1,0 +1,15 @@
+{
+  "project": "Master SYNC",
+  "currency": {
+    "name": "MasterCoins",
+    "symbol": "M$"
+  },
+  "defaults": {
+    "prefix": "/",
+    "welcome_enabled": true,
+    "economy_enabled": true,
+    "casino_enabled": true,
+    "min_bet": 10,
+    "max_bet": 50000
+  }
+}

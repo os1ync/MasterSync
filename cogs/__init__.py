@@ -1,0 +1,1 @@
+"""Master SYNC cogs package."""
